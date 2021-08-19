@@ -10,6 +10,7 @@ void binarioDecimal(int numBinario[], int tam){
         decimal += numBinario[i] * pow(2,potencia);
         potencia++;
     }
+    cout << "O número decimal é: ";
     cout << decimal;
     /*
     Tem alguma coisa errada!
