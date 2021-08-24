@@ -1,2 +1,2 @@
-# programando-com-c--
- Projeto Inicial em C++
+# Programando com C++
+ Projeto Inicial na linguagem C++
