@@ -2,7 +2,10 @@
 #include <locale.h>
 using namespace std;
 /*
-  Faça um programa que leia os lados de um retângulo. Calcule a área do retângulo e, caso os lados sejam iguais, imprima a área calculada após a mensagem: “A área do quadrado é ”. Se os lados forem diferentes, imprima a área após a mensagem : “A área do retângulo é ”.
+  Faça um programa que leia os lados de um retângulo. Calcule a área do retângulo
+  e, caso os lados sejam iguais, imprima a área calculada após a mensagem: “A
+  área do quadrado é ”. Se os lados forem diferentes, imprima a área após a
+  mensagem : “A área do retângulo é ”.
 */
 
 int main() {
