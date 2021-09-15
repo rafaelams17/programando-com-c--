@@ -19,7 +19,7 @@ int main() {
 
     cout << "\nInforme sua altura[m]: ";
     cin >> altura;
-  
+          
     imc=(peso/(altura*altura)); 
 
     cout << nome << " seu IMC é: " <<imc <<endl;
