@@ -1,2 +1,2 @@
 # Programando com C++
- Projeto Inicial na linguagem C++
+ Aprendendo de verdade a programar, colocando em praticas projetos esquecidos e simples
