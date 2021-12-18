@@ -1,5 +1,5 @@
 # Programando com C++
-    Aprendendo de verdade a programar, colocando em praticas projetos esquecidos e simples
+Aprendendo de verdade a programar, colocando em praticas projetos esquecidos e simples
 
 ## Introdução
 A linguagem C++ é uma linguagem de programação baseada na linguagem C. Em 1983, Bjarne Stroustrup começou a desenvolver a linguagem com o objetivo de melhorar uma versão do núcleo Unix. 
