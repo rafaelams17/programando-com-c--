@@ -1,5 +1,5 @@
 # Programando com C++
-Aprendendo de verdade a programar, colocando em praticas projetos esquecidos e simples
+Aprendendo de verdade a programar, colocando em praticas projetos esquecidos e simples.
 
 ## Introdução
 Em 1983, Bjarne Stroustrup começou a desenvolver a linguagem com o objetivo de melhorar uma versão do núcleo Unix. A linguagem C++ é uma linguagem de programação baseada na linguagem C, com recursos de alto nível suficientes a ponto de facilitar o desenvolvimento de sistemas complexos.
@@ -19,7 +19,7 @@ Em 1983, Bjarne Stroustrup começou a desenvolver a linguagem com o objetivo de 
 * Sistemas Operacionais;
 * Microcontroladores, enfim.
 
-### Empressas como Facebook, Adobe, Google, Microsoft, etc., utiliza a linguagem C++ para suas aplicações.
+### Empresas como Facebook, Adobe, Google, Microsoft, etc., utiliza a linguagem C++ para suas aplicações.
 
 Referências:
 * [Alura](https://www.alura.com.br/artigos/formacao-linguagem-c-plus-plus)
