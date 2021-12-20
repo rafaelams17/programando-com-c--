@@ -25,8 +25,8 @@ Referências:
 * [Alura](https://www.alura.com.br/artigos/formacao-linguagem-c-plus-plus)
 * [Wikipédia](https://pt.wikipedia.org/wiki/C%2B%2B)
 
-## Praticas
-* Verifique se o número dado é par ou impar
+## Exemplo de Código C++
+* Faça um programa que receba uma sequência de números inteiros positivos e conte quantos números ímpares e quantos números pares há na sequência.
 ```
 
 #include <iostream>
