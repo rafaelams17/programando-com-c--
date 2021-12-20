@@ -20,4 +20,6 @@ int main() {
   }
   cout << "\nForam dados " << par << " numeros pares e " << impar << " numeros impares." <<endl;
   cout << "\nTotal de numeros na sequencia: " << cont <<endl;
+  
+  return 0;
 }
