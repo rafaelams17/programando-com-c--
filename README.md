@@ -19,11 +19,11 @@ Em 1983, Bjarne Stroustrup começou a desenvolver a linguagem com o objetivo de 
 * Sistemas Operacionais;
 * Microcontroladores, enfim.
 
-### Empreasas como Facebook, Adobe, Google, Microsoft etc., utiliza a linguagem para suas aplicações.
+### Empressas como Facebook, Adobe, Google, Microsoft, etc., utiliza a linguagem C++ para suas aplicações.
 
 Referências:
 * [Alura](https://www.alura.com.br/artigos/formacao-linguagem-c-plus-plus)
 * [Wikipédia](https://pt.wikipedia.org/wiki/C%2B%2B)
 
 ## Praticas
-* [Par ou Impar]('atividades-iniciais/linguagem_c++/parImpar.cpp')
+* [Par ou Impar](../parImpar.cpp)
