@@ -2,7 +2,7 @@
 Aprendendo de verdade a programar, colocando em praticas projetos esquecidos e simples
 
 ## Introdução
-A linguagem C++ é uma linguagem de programação baseada na linguagem C. Em 1983, Bjarne Stroustrup começou a desenvolver a linguagem com o objetivo de melhorar uma versão do núcleo Unix. 
+Em 1983, Bjarne Stroustrup começou a desenvolver a linguagem com o objetivo de melhorar uma versão do núcleo Unix. A linguagem C++ é uma linguagem de programação baseada na linguagem C, com recursos de alto nível suficientes a ponto de facilitar o desenvolvimento de sistemas complexos.
     
 ## Características
 * Multi-paradigmas, suporta  linguagem imperativa, orientada a objetos e genérica.
@@ -12,4 +12,18 @@ A linguagem C++ é uma linguagem de programação baseada na linguagem C. Em 198
 * É desenvolvido para ser o mais compatível com C possível, fornecendo transições simples para código C.
 * Possui uma biblioteca padrão como o C.
 
-Falta outras caracteristicas.
+## Aplicações
+* Jogos;
+* Mercado financeiro;
+* Grandes aplicações como navegadores, softwares multímidia e pacotes office;
+* Sistemas Operacionais;
+* Microcontroladores, enfim.
+
+### Empreasas como Facebook, Adobe, Google, Microsoft etc., utiliza a linguagem para suas aplicações.
+
+Referências:
+* [Alura](https://www.alura.com.br/artigos/formacao-linguagem-c-plus-plus)
+* [Wikipédia](https://pt.wikipedia.org/wiki/C%2B%2B)
+
+## Praticas
+* [Par ou Impar]('atividades-iniciais/linguagem_c++/parImpar.cpp')
